@@ -1,0 +1,23 @@
+{
+  "name": "trello-slack-overdue",
+  "version": "0.0.1",
+  "description": "Send all your Trello overdue tasks to a Slack channel",
+  "main": "app.js",
+  "dependencies": {
+    "timeago.js": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosmicResearch/trello-slack-overdue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CosmicResearch/trello-slack-overdue/issues"
+  },
+  "homepage": "https://github.com/CosmicResearch/trello-slack-overdue#readme"
+}
