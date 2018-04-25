@@ -1,0 +1,4 @@
+{
+    "hook": "/services/your/hook",
+    "channel": "#some_channel"
+}
